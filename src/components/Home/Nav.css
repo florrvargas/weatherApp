@@ -1,0 +1,26 @@
+#logo {
+height: 5rem;
+border-radius: 60% 100%;
+}
+
+.navbar{
+  display: flex;
+  gap: 50rem;
+  width: 100%;
+  align-items: center;
+  font-size: 1.5rem;
+  background-color: rgb(255, 254, 254) ;
+  opacity: .8;
+
+}
+
+.navbar a{
+  text-decoration: none;
+}
+
+.n-logo{
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
